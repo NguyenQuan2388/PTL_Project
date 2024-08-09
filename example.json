@@ -1,0 +1,2 @@
+mc alias set minio http://localhost:9000 admin password
+

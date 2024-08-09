@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Aug 08 10:28:24 ICT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0191-3007-d032-000007e56160 
+on database directory /home/nguyenquan8803/Project/Airflow/metastore_db with class loader sun.misc.Launcher$AppClassLoader@46f7f36a 
+Loaded from file:/home/nguyenquan8803/Project/Airflow/venv/lib/python3.12/site-packages/pyspark/jars/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_422-8u422-b05-1~24.04-b05
+user.dir=/home/nguyenquan8803/Project/Airflow
+os.name=Linux
+os.arch=amd64
+os.version=6.8.0-39-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
